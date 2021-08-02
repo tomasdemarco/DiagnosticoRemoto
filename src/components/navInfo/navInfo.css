@@ -1,0 +1,21 @@
+.nav{
+    height: 60px; 
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(68, 82, 146);
+}
+.col{
+    height: 60px; 
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    background-color: rgb(68, 82, 146);
+}
+.col:hover {
+    background-color: rgb(49, 90, 179);
+    scale: 1.1;
+}

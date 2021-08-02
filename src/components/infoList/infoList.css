@@ -1,0 +1,14 @@
+.personas {
+  width: 100%;
+  background-color: rgb(255, 255, 255);
+}
+.flotante{
+    display:scroll !important;
+    position:fixed !important;
+    bottom:30px !important;
+    right:30px !important;
+}
+.row{
+  padding-left: 1em;
+  padding-right: 1em;
+}

@@ -1,0 +1,979 @@
+{
+    "apps_installed": [
+        {
+            "cacheSize": "0KB",
+            "codeSize": "86KB",
+            "dataSize": "0KB",
+            "name": "com.qrd.omadownload",
+            "packageName": "com.qrd.omadownload",
+            "version": "1.0"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "602KB",
+            "dataSize": "0KB",
+            "name": "VirtualKeyboard",
+            "packageName": "com.newland.virtualkeyboard",
+            "version": "1.3"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "540KB",
+            "dataSize": "479KB",
+            "name": "Almacenamiento teléfono/mensajes",
+            "packageName": "com.android.providers.telephony",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "471KB",
+            "dataSize": "1,39MB",
+            "name": "Almacenamiento de medios",
+            "packageName": "com.android.providers.media",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "49KB",
+            "dataSize": "0KB",
+            "name": "com.qti.service.colorservice",
+            "packageName": "com.qti.service.colorservice",
+            "version": "1.0"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "184KB",
+            "dataSize": "16KB",
+            "name": "MBN Test",
+            "packageName": "com.qualcomm.qti.modemtestmode",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "16KB",
+            "dataSize": "0KB",
+            "name": "com.qualcomm.shutdownlistner",
+            "packageName": "com.qualcomm.shutdownlistner",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "823KB",
+            "dataSize": "0KB",
+            "name": "com.android.wallpapercropper",
+            "packageName": "com.android.wallpapercropper",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "28KB",
+            "dataSize": "0KB",
+            "name": "Consejos iniciales",
+            "packageName": "com.android.protips",
+            "version": "1.0"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "188KB",
+            "dataSize": "16KB",
+            "name": "com.qualcomm.qti.phonefeature",
+            "packageName": "com.qualcomm.qti.phonefeature",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "192KB",
+            "codeSize": "2MB",
+            "dataSize": "81KB",
+            "name": "Launcher",
+            "packageName": "com.android.launcher",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "425KB",
+            "dataSize": "438KB",
+            "name": "SmartcardService",
+            "packageName": "org.simalliance.openmobileapi.service",
+            "version": "3.1.0"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "3,05MB",
+            "dataSize": "0KB",
+            "name": "AuthorityApp",
+            "packageName": "com.newland.authorityapp",
+            "version": "2.0"
+        },
+        {
+            "cacheSize": "20KB",
+            "codeSize": "1,36MB",
+            "dataSize": "61KB",
+            "name": "Documentos",
+            "packageName": "com.android.documentsui",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "49KB",
+            "dataSize": "0KB",
+            "name": "Black Hole",
+            "packageName": "com.android.galaxy4",
+            "version": "1.0"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "69KB",
+            "dataSize": "0KB",
+            "name": "Almacenamiento externo",
+            "packageName": "com.android.externalstorage",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "831KB",
+            "dataSize": "40KB",
+            "name": "Scheduled power on and off",
+            "packageName": "com.android.timerswitch",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "20KB",
+            "dataSize": "0KB",
+            "name": "Visor de HTML",
+            "packageName": "com.android.htmlviewer",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "274KB",
+            "dataSize": "0KB",
+            "name": "STAProxyService",
+            "packageName": "com.qualcomm.sta",
+            "version": "1.0"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "36KB",
+            "dataSize": "0KB",
+            "name": "SVI Settings",
+            "packageName": "com.qualcomm.svi",
+            "version": "1.0"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "184KB",
+            "dataSize": "0KB",
+            "name": "MmsService",
+            "packageName": "com.android.mms.service",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "679KB",
+            "dataSize": "49KB",
+            "name": "Administrador de descargas",
+            "packageName": "com.android.providers.downloads",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "184KB",
+            "dataSize": "0KB",
+            "name": "EngineerTool",
+            "packageName": "com.qualcomm.qti.engineertool",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "868KB",
+            "dataSize": "0KB",
+            "name": "SecProtect",
+            "packageName": "com.qapp.secprotect",
+            "version": "1.0"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "0KB",
+            "dataSize": "0KB",
+            "name": "com.qualcomm.interfacepermissions",
+            "packageName": "com.qualcomm.interfacepermissions",
+            "version": "1.0"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "57KB",
+            "dataSize": "0KB",
+            "name": "Ayudante acceso a paquete",
+            "packageName": "com.android.defcontainer",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "28KB",
+            "dataSize": "0KB",
+            "name": "AGPSTestMode",
+            "packageName": "com.qualcomm.agpstestmode",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "36KB",
+            "dataSize": "0KB",
+            "name": "Descargas",
+            "packageName": "com.android.providers.downloads.ui",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "40KB",
+            "dataSize": "0KB",
+            "name": "PacProcessor",
+            "packageName": "com.android.pacprocessor",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "450KB",
+            "dataSize": "0KB",
+            "name": "QTI Logging",
+            "packageName": "com.qualcomm.RIDL",
+            "version": "4.5.10"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "45KB",
+            "dataSize": "20KB",
+            "name": "Content Adaptive Backlight Settings",
+            "packageName": "com.qualcomm.cabl",
+            "version": "1.0"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "77KB",
+            "dataSize": "0KB",
+            "name": "Instalador de certificados",
+            "packageName": "com.android.certinstaller",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "622KB",
+            "dataSize": "0KB",
+            "name": "org.codeaurora.bluetooth",
+            "packageName": "org.codeaurora.bluetooth",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "19,57MB",
+            "dataSize": "0KB",
+            "name": "Sistema Android",
+            "packageName": "android",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "1,51MB",
+            "dataSize": "0KB",
+            "name": "Authorization",
+            "packageName": "com.newland.icauth",
+            "version": "1.0.7"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "3,19MB",
+            "dataSize": "0KB",
+            "name": "Cámara",
+            "packageName": "com.android.camera2",
+            "version": "2.0.002 (newland.20210310.182940-30)"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "262KB",
+            "dataSize": "0KB",
+            "name": "Wfd Service",
+            "packageName": "com.qualcomm.wfd.service",
+            "version": "2.0"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "49KB",
+            "dataSize": "0KB",
+            "name": "GsmaService",
+            "packageName": "com.qcom.gsma.services.nfc",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "1,01MB",
+            "dataSize": "28KB",
+            "name": "Servicio NFC",
+            "packageName": "com.android.nfc",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "74,69MB",
+            "dataSize": "0KB",
+            "name": "PayStore Payments App",
+            "packageName": "br.com.phoebus.paystore.payments.newland",
+            "version": "2.6.42-newland"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "53KB",
+            "dataSize": "0KB",
+            "name": "DRM",
+            "packageName": "oms.drmservice",
+            "version": "1.0.0"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "28KB",
+            "dataSize": "0KB",
+            "name": "com.android.backupconfirm",
+            "packageName": "com.android.backupconfirm",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "16KB",
+            "dataSize": "0KB",
+            "name": "com.android.provision",
+            "packageName": "com.android.provision",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "1,27MB",
+            "dataSize": "0KB",
+            "name": "org.codeaurora.ims",
+            "packageName": "org.codeaurora.ims",
+            "version": "1.0"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "53KB",
+            "dataSize": "0KB",
+            "name": "com.android.wallpaper.holospiral",
+            "packageName": "com.android.wallpaper.holospiral",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "53KB",
+            "dataSize": "0KB",
+            "name": "Phase Beam",
+            "packageName": "com.android.phasebeam",
+            "version": "1.0"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "90KB",
+            "dataSize": "0KB",
+            "name": "com.qualcomm.qcrilmsgtunnel",
+            "packageName": "com.qualcomm.qcrilmsgtunnel",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "282KB",
+            "dataSize": "106KB",
+            "name": "Almacenamiento de configuración",
+            "packageName": "com.android.providers.settings",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "0KB",
+            "dataSize": "0KB",
+            "name": "com.qualcomm.qcom_qmi",
+            "packageName": "com.qualcomm.qcom_qmi",
+            "version": "1.0"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "28KB",
+            "dataSize": "0KB",
+            "name": "com.android.sharedstoragebackup",
+            "packageName": "com.android.sharedstoragebackup",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "1,57MB",
+            "dataSize": "12KB",
+            "name": "Cola de impresión",
+            "packageName": "com.android.printspooler",
+            "version": "1"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "40KB",
+            "dataSize": "0KB",
+            "name": "Salvapantallas básico",
+            "packageName": "com.android.dreams.basic",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "16KB",
+            "dataSize": "0KB",
+            "name": "Dispositivos de entrada",
+            "packageName": "com.android.inputdevices",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "28KB",
+            "dataSize": "0KB",
+            "name": "com.qualcomm.gsmtuneaway",
+            "packageName": "com.qualcomm.gsmtuneaway",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "98KB",
+            "dataSize": "0KB",
+            "name": "com.qti.xdivert",
+            "packageName": "com.qti.xdivert",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "1,06MB",
+            "dataSize": "16KB",
+            "name": "File Explorer",
+            "packageName": "com.android.qrdfileexplorer",
+            "version": "1.0"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "48,65MB",
+            "dataSize": "0KB",
+            "name": "Android System WebView",
+            "packageName": "com.google.android.webview",
+            "version": "72.0.3626.28"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "77KB",
+            "dataSize": "16KB",
+            "name": "One Time Init",
+            "packageName": "com.android.onetimeinitializer",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "28KB",
+            "dataSize": "0KB",
+            "name": "Device Info",
+            "packageName": "com.android.qrd.engineeringmode",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "389KB",
+            "dataSize": "0KB",
+            "name": "标准输入法",
+            "packageName": "com.newland.inputmethod.pinyin",
+            "version": "1.1.2"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "884KB",
+            "dataSize": "16KB",
+            "name": "Teléfono",
+            "packageName": "com.android.server.telecom",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "73KB",
+            "dataSize": "45KB",
+            "name": "Llavero",
+            "packageName": "com.android.keychain",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "32KB",
+            "codeSize": "26,88MB",
+            "dataSize": "405KB",
+            "name": "PayStore AppStore Client",
+            "packageName": "br.com.phoebus.paystore.client.newland",
+            "version": "2.3.26.1-newland"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "5,8MB",
+            "dataSize": "16KB",
+            "name": "Galería",
+            "packageName": "com.android.gallery3d",
+            "version": "1.1.40030"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "839KB",
+            "dataSize": "0KB",
+            "name": "Instalador de paquetes",
+            "packageName": "com.android.packageinstaller",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "155KB",
+            "dataSize": "126KB",
+            "name": "Gestures",
+            "packageName": "com.qualcomm.qti.gesture",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "61KB",
+            "dataSize": "0KB",
+            "name": "org.codeaurora.btmultisim",
+            "packageName": "org.codeaurora.btmultisim",
+            "version": "1.0"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "65KB",
+            "dataSize": "0KB",
+            "name": "Pico TTS",
+            "packageName": "com.svox.pico",
+            "version": "1.0"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "57KB",
+            "dataSize": "0KB",
+            "name": "ANT HAL Service",
+            "packageName": "com.dsi.ant.server",
+            "version": "4.0.0"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "28KB",
+            "dataSize": "0KB",
+            "name": "ProxyHandler",
+            "packageName": "com.android.proxyhandler",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "110KB",
+            "dataSize": "0KB",
+            "name": "CarrierLoadService",
+            "packageName": "com.qualcomm.qti.loadcarrier",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "16KB",
+            "codeSize": "2,59MB",
+            "dataSize": "147KB",
+            "name": "Teclado Android (AOSP)",
+            "packageName": "com.android.inputmethod.latin",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "20KB",
+            "codeSize": "1,54MB",
+            "dataSize": "0KB",
+            "name": "KeyLoad",
+            "packageName": "com.newland.kla.oversea",
+            "version": "1.0.6"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "5,25MB",
+            "dataSize": "0KB",
+            "name": "Update Tool",
+            "packageName": "com.newland.pcdownandupdate",
+            "version": "1.0.80"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "53KB",
+            "dataSize": "0KB",
+            "name": "Backup Agent",
+            "packageName": "com.qti.backupagent",
+            "version": "1.0"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "49,74MB",
+            "dataSize": "0KB",
+            "name": "Prisma Payments App",
+            "packageName": "br.com.phoebus.paystore.android.acquirer.prisma.newland",
+            "version": "1.0.44-newland"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "86KB",
+            "dataSize": "0KB",
+            "name": "Fondos de pantalla de visualización musical",
+            "packageName": "com.android.musicvis",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "802KB",
+            "dataSize": "0KB",
+            "name": "Aprovisionador de dispositivos",
+            "packageName": "com.android.managedprovisioning",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "221KB",
+            "dataSize": "0KB",
+            "name": "Salvapantallas de fotos",
+            "packageName": "com.android.dreams.phototable",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "49,66MB",
+            "dataSize": "258KB",
+            "name": "Amex Payments App",
+            "packageName": "br.com.phoebus.paystore.android.acquirer.amex.newland",
+            "version": "1.0.44-newland"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "53KB",
+            "dataSize": "0KB",
+            "name": "Burbujas",
+            "packageName": "com.android.noisefield",
+            "version": "1.0"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "90KB",
+            "dataSize": "0KB",
+            "name": "com.android.smspush",
+            "packageName": "com.android.smspush",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "53KB",
+            "dataSize": "0KB",
+            "name": "Selector de fondo de pantalla animado",
+            "packageName": "com.android.wallpaper.livepicker",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "3,88MB",
+            "dataSize": "0KB",
+            "name": "Selftest",
+            "packageName": "com.newland.detectapp",
+            "version": "1.6.60"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "462KB",
+            "dataSize": "0KB",
+            "name": "Etiquetas",
+            "packageName": "com.android.apps.tag",
+            "version": "1.1"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "20KB",
+            "dataSize": "0KB",
+            "name": "CarrierAccessCacheService",
+            "packageName": "com.qualcomm.qti.accesscache",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "221KB",
+            "dataSize": "0KB",
+            "name": "OTA Access Point Configuration",
+            "packageName": "com.wdstechnology.android.kryten",
+            "version": "1.0.0"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "5,41MB",
+            "dataSize": "241KB",
+            "name": "Ajustes",
+            "packageName": "com.android.settings",
+            "version": "1.0.00"
+        },
+        {
+            "cacheSize": "45KB",
+            "codeSize": "27,13MB",
+            "dataSize": "376KB",
+            "name": "PayStore Platform App",
+            "packageName": "br.com.phoebus.paystore.platform.newland",
+            "version": "2.5.39-newland"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "819KB",
+            "dataSize": "0KB",
+            "name": "AIDL Service",
+            "packageName": "com.abc.evaluate",
+            "version": "1.0"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "864KB",
+            "dataSize": "0KB",
+            "name": "LocationServices",
+            "packageName": "com.qualcomm.location",
+            "version": "1.0"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "73KB",
+            "dataSize": "0KB",
+            "name": "SimContacts",
+            "packageName": "com.qualcomm.simcontacts",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "57KB",
+            "dataSize": "0KB",
+            "name": "Fondos de pantalla animados de Android",
+            "packageName": "com.android.wallpaper",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "28KB",
+            "dataSize": "0KB",
+            "name": "VpnDialogs",
+            "packageName": "com.android.vpndialogs",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "1,95MB",
+            "dataSize": "28KB",
+            "name": "Teléfono",
+            "packageName": "com.android.phone",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "610KB",
+            "dataSize": "0KB",
+            "name": "Shell",
+            "packageName": "com.android.shell",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "49KB",
+            "dataSize": "40KB",
+            "name": "User Dictionary",
+            "packageName": "com.android.providers.userdictionary",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "53KB",
+            "dataSize": "0KB",
+            "name": "LunarInfoProvider",
+            "packageName": "com.qualcomm.qti.lunarinfo",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "36KB",
+            "dataSize": "0KB",
+            "name": "Ubicación combinada",
+            "packageName": "com.android.location.fused",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "1,76MB",
+            "dataSize": "69KB",
+            "name": "Reloj",
+            "packageName": "com.android.deskclock",
+            "version": "3.0.3"
+        },
+        {
+            "cacheSize": "45KB",
+            "codeSize": "4,67MB",
+            "dataSize": "0KB",
+            "name": "Interfaz de usuario del sistema",
+            "packageName": "com.android.systemui",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "32KB",
+            "dataSize": "0KB",
+            "name": "EngineerToolOperation",
+            "packageName": "com.qualcomm.qti.engineertool.operation",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "69KB",
+            "dataSize": "0KB",
+            "name": "com.qualcomm.qti.networksetting",
+            "packageName": "com.qualcomm.qti.networksetting",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "28,45MB",
+            "dataSize": "0KB",
+            "name": "Diagnóstico",
+            "packageName": "com.phoebus.diagnostic",
+            "version": "1.0.1.0"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "36KB",
+            "dataSize": "0KB",
+            "name": "com.qualcomm.fastdormancy",
+            "packageName": "com.qualcomm.fastdormancy",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "3,16MB",
+            "dataSize": "0KB",
+            "name": "Compartir con Bluetooth",
+            "packageName": "com.android.bluetooth",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "12KB",
+            "codeSize": "16KB",
+            "dataSize": "0KB",
+            "name": "com.qualcomm.timeservice",
+            "packageName": "com.qualcomm.timeservice",
+            "version": "5.1.1-newland.20210310.182940"
+        },
+        {
+            "cacheSize": "0KB",
+            "codeSize": "32KB",
+            "dataSize": "0KB",
+            "name": "CaptivePortalLogin",
+            "packageName": "com.android.captiveportallogin",
+            "version": "5.1.1-newland.20210310.182940"
+        }
+    ],
+    "serial": "N77A01760143",
+    "communication_test": {
+        "acquirers": [
+            {
+                "acquirerName": "Hubo un problema al hacer la prueba con el adquirente Newland.",
+                "acquirerResponseTime": 0,
+                "acquirerStatus": "OFFLINE",
+                "serverName": "Hubo un problema al comunicarse con Payments API.",
+                "serverResponseTime": 0,
+                "serverStatus": "OFFLINE"
+            },
+            {
+                "acquirerName": "Prisma",
+                "acquirerResponseTime": 1232,
+                "acquirerStatus": "ONLINE",
+                "serverName": "Payment Api",
+                "serverResponseTime": 1108,
+                "serverStatus": "ONLINE"
+            }
+        ],
+        "api": {
+            "serverMeanResponseTime": 1108,
+            "serverStatus": "OFFLINE"
+        },
+        "appStore": {
+            "isStoreStatus": false,
+            "storeResponseTime": 1297
+        },
+        "date": "1625240040088",
+        "network": {
+            "isConnectedNetwork": true,
+            "networkLevel": 4,
+            "networkType": 1
+        },
+        "paystoreInit": {
+            "initResponseTime": 1445,
+            "isPaystoreInit": false
+        }
+    },
+    "device_information": {
+        "androidVersion": "5.1.1",
+        "apiLevel": 22,
+        "architecture": "armv7l",
+        "basebrandVersion": "BP01.017(SC20CEQAR01A17_NL)",
+        "batteryCapacity": 0,
+        "batteryLevel": 88,
+        "batteryTemperature": "0.0°C",
+        "batteryVoltage": 0,
+        "board": "msm8909",
+        "bootDate": [
+            ""
+        ],
+        "bootloader": "unknown",
+        "brand": "qcom",
+        "buildDisplay": "NewLand_N910-bf96e2ddfe",
+        "buildId": "NewLand_N910",
+        "chargePlug": "Not charging",
+        "connectionType": "WiFi",
+        "device": "msm8909",
+        "deviceManufacturer": "newland",
+        "deviceName": "N910",
+        "fingerprint": "qcom/msm8909/msm8909:5.1.1/NewLand_N910/newland.20210310.182940:user/dev-keys",
+        "hardware": "Qualcomm Technologies, Inc MSM8909",
+        "host": "newland",
+        "iccid": "8954079900014517830",
+        "imei": [
+            "860718041003555"
+        ],
+        "ipAddress": "192.168.0.11",
+        "isCharging": false,
+        "isDualSim": true,
+        "isOnline": true,
+        "isSimulator": false,
+        "javaVmVersion": "2.1.0",
+        "kernelVersion": "3.10.49",
+        "language": "es_AR",
+        "latitude": -34.63206388,
+        "longitude": -58.41649509,
+        "lowMemory": false,
+        "macAddress": "c4:41:37:90:8d:f6",
+        "memoryFree": "499,69MB",
+        "memorySize": "944,07MB",
+        "networkLevel": 3,
+        "networkOperator": "Movistar",
+        "orientation": "portrait",
+        "osVersion": "ANDROID 5.1.1 22 newland.20210310.182940",
+        "processor": "ARMv7 Processor rev 5 (v7l)",
+        "product": "msm8909",
+        "screenDensity": 2,
+        "screenDpi": 320,
+        "screenHeight": 1280,
+        "screenResolution": "1280x720",
+        "screenWidth": 720,
+        "serial": "N77A01760143",
+        "shutdownDate": [
+            ""
+        ],
+        "storageFree": "4,12GB",
+        "storageSize": "4,63GB",
+        "timezone": "America/Argentina/Buenos_Aires",
+        "totalRxBytes": "5,03MB",
+        "totalRxMobile": "0KB",
+        "totalRxWifi": "5,03MB",
+        "totalTxBytes": "709KB",
+        "totalTxMobile": "0KB",
+        "totalTxWifi": "709KB",
+        "upTime": "01:22",
+        "wifiLevel": 100
+    },
+    "expiresAt": "2021-08-01T16:47:12.919Z",
+    "createdAt": "2021-07-02T16:47:12.919Z"
+}
